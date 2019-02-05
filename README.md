@@ -1,2 +1,2 @@
 # Azure-dev-test-lab
-[![Deploy to Azure] (https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure] (https://azuredeploy.com/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template)
