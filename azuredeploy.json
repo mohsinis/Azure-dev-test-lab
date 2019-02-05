@@ -4,7 +4,7 @@
    "parameters": {
     "labName": {
       "type": "string"
-    },
+    }},
   "variables": {
     "labVirtualNetworkName": "[concat('Dtl', parameters('labName'))]",
     "artifactRepositoryName": "[concat('Repo-', uniqueString(subscription().subscriptionId))]"
@@ -23,7 +23,7 @@
           "dependsOn": [
             "[resourceId('Microsoft.DevTestLab/labs', parameters('labName'))]"
           ]
-        },
+        }
       ]
     }
   ],
