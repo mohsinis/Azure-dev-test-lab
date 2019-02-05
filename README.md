@@ -1,2 +1,2 @@
 # Azure-dev-test-lab
-[![Depoly to Azure] (http://azuredeploy.net/deploybutton.png)] (https://portal.azure.com)
+[![Deploy to Azure] (https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
