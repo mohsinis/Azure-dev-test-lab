@@ -6,7 +6,7 @@
       "type": "string"
     }},
   "variables": {
-    "labVirtualNetworkName": "[concat('Dtl', parameters('labName'))]",
+    "labVirtualNetworkName": "[concat('BoC', parameters('labName'))]",
     "artifactRepositoryName": "[concat('Repo-', uniqueString(subscription().subscriptionId))]"
   },
   "resources": [
